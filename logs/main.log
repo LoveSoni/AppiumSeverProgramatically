@@ -1,0 +1,12 @@
+2019-08-28 22:17:03,947 +0530 [main] INFO  (ServerDefaultServer.java:17) - Appium Server is up and running
+2019-08-28 22:17:04,950 +0530 [main] INFO  (ServerDefaultServer.java:27) - Server is still running from last 1 Second
+2019-08-28 22:17:05,951 +0530 [main] INFO  (ServerDefaultServer.java:27) - Server is still running from last 2 Second
+2019-08-28 22:17:06,953 +0530 [main] INFO  (ServerDefaultServer.java:27) - Server is still running from last 3 Second
+2019-08-28 22:17:07,954 +0530 [main] INFO  (ServerDefaultServer.java:27) - Server is still running from last 4 Second
+2019-08-28 22:17:08,955 +0530 [main] INFO  (ServerDefaultServer.java:27) - Server is still running from last 5 Second
+2019-08-28 22:17:09,956 +0530 [main] INFO  (ServerDefaultServer.java:27) - Server is still running from last 6 Second
+2019-08-28 22:17:10,960 +0530 [main] INFO  (ServerDefaultServer.java:27) - Server is still running from last 7 Second
+2019-08-28 22:17:11,964 +0530 [main] INFO  (ServerDefaultServer.java:27) - Server is still running from last 8 Second
+2019-08-28 22:17:12,965 +0530 [main] INFO  (ServerDefaultServer.java:27) - Server is still running from last 9 Second
+2019-08-28 22:17:13,966 +0530 [main] INFO  (ServerDefaultServer.java:27) - Server is still running from last 10 Second
+2019-08-28 22:17:14,024 +0530 [main] INFO  (ServerDefaultServer.java:32) - Appium Server is down now
